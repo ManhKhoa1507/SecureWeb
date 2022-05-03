@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T14:34:53.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="7fIYIxpMA3gA42w1A8Wb" version="17.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-03T14:35:22.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="jJNUMWKxsUq4bXQHEL5S" version="17.5.0" type="github" pages="4">
   <diagram id="-EU-1xjROp4y-_7epeO2" name="SignUp">
     <mxGraphModel dx="2637" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1488,7 +1488,7 @@
           <mxGeometry x="1130" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1o5mdB4s74YiEH6KQ6rU-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-images-1.medium.com/max/2000/1*VIPWScFOxe2mdNaMQrqEmg.png;" vertex="1" parent="1o5mdB4s74YiEH6KQ6rU-1">
-          <mxGeometry x="-1080" y="175" width="722.22" height="350" as="geometry" />
+          <mxGeometry x="-1310" y="-540" width="722.22" height="350" as="geometry" />
         </mxCell>
         <mxCell id="1o5mdB4s74YiEH6KQ6rU-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blog.kiprosh.com/content/images/2021/06/Passwordless-Authentication-via-Magic-Link-2.png;" vertex="1" parent="1o5mdB4s74YiEH6KQ6rU-1">
           <mxGeometry x="-1340" y="760" width="860.95" height="556.31" as="geometry" />
